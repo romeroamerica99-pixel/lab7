@@ -12,40 +12,6 @@
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Wed, 18 Feb 2026 08:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Wed, 18 Feb 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Research Project Update</title>
   <dc:creator>America Romero</dc:creator>
   <link>https://your-website-url.example.com/posts/Research Update/</link>
@@ -63,26 +29,6 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>news</category>
   <guid>https://your-website-url.example.com/posts/Research Update/</guid>
   <pubDate>Wed, 18 Feb 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Test</title>
-  <dc:creator>America Romero</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p>I am testing this blog!</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Sun, 15 Feb 2026 08:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

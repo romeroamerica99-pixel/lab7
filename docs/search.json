@@ -14,24 +14,10 @@
     "text": "For the project, we created a skeleton of the dashboard and divided up who is plotting what for the project. We each started working on our part and will meet on Tuesday to put it all together."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Test",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nI am testing this blog!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lab 7",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Project Update\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\nAmerica Romero\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 15, 2026\n\n\nAmerica Romero\n\n\n\n\n\nNo matching items"
+    "text": "Research Project Update\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\nAmerica Romero\n\n\n\n\n\nNo matching items"
   }
 ]
