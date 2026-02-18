@@ -46,8 +46,8 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <title>Research Project Update</title>
+  <dc:creator>America Romero</dc:creator>
   <link>https://your-website-url.example.com/posts/test/</link>
   <description><![CDATA[ 
 
@@ -55,16 +55,14 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/test/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>For the project, we created a skeleton of the dashboard and divided up who is plotting what for the project. We each started working on our part and will meet on Tuesday to put it all together.</p>
 
 
 
  ]]></description>
   <category>news</category>
   <guid>https://your-website-url.example.com/posts/test/</guid>
-  <pubDate>Sun, 15 Feb 2026 08:00:00 GMT</pubDate>
+  <pubDate>Wed, 18 Feb 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Test</title>

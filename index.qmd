@@ -1,5 +1,5 @@
 ---
-title: "lab7"
+title: "Lab 7"
 listing:
   contents: posts
   feed: true
