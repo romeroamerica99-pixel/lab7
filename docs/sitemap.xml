@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-02-18T22:19:08.834Z</lastmod>
+    <loc>https://your-website-url.example.com/about.html</loc>
+    <lastmod>2026-02-18T22:28:52.414Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-02-18T22:14:47.396Z</lastmod>
+    <lastmod>2026-02-18T22:30:33.409Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
     <lastmod>2026-02-18T22:14:47.397Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-02-18T22:14:47.397Z</lastmod>
+    <loc>https://your-website-url.example.com/posts/test/index.html</loc>
+    <lastmod>2026-02-18T22:29:48.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2026-02-18T22:19:08.834Z</lastmod>
   </url>
 </urlset>
