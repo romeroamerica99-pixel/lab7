@@ -7,11 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Test",
+    "objectID": "posts/Research Update/index.html",
+    "href": "posts/Research Update/index.html",
+    "title": "Research Project Update",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nI am testing this blog!"
+    "text": "For the project, we created a skeleton of the dashboard and divided up who is plotting what for the project. We each started working on our part and will meet on Tuesday to put it all together."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -21,11 +21,11 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "posts/test/index.html",
-    "href": "posts/test/index.html",
-    "title": "Research Project Update",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Test",
     "section": "",
-    "text": "For the project, we created a skeleton of the dashboard and divided up who is plotting what for the project. We each started working on our part and will meet on Tuesday to put it all together."
+    "text": "This is the first post in a Quarto blog. Welcome!\nI am testing this blog!"
   },
   {
     "objectID": "index.html",
