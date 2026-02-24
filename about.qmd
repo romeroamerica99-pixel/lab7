@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
@@ -12,4 +12,4 @@ about:
       href: https://github.com/romeroamerica99-pixel
 ---
 
-About me!
+About me: I'm a student in this quarter's data visualization course!
