@@ -1,5 +1,5 @@
 ---
-title: "Research Project Update"
+title: "Research Project Update (Lab 7)"
 author: "America Romero"
 date: "2026-02-18"
 categories: [news]
