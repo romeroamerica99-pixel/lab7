@@ -4,9 +4,6 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/mightbeamerica
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/ameromero
@@ -15,4 +12,4 @@ about:
       href: https://github.com/romeroamerica99-pixel
 ---
 
-About this blog
+About me!
