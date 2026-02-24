@@ -7,6 +7,13 @@
     "text": "About this blog"
   },
   {
+    "objectID": "posts/Lab Problem Set 3/index.html",
+    "href": "posts/Lab Problem Set 3/index.html",
+    "title": "Lab Problem Set #3",
+    "section": "",
+    "text": "Here are two visualizations for our project.\nSome background on the project: we will be using a recently collected dataset from the Hutchinson Lab in Psychology titled the Multimodal Memory Dataset (not publicly available). The group collected up to 15 sessions per participant (n=3). In each session, participants encoded and recalled image-word pairs. By manipulating how participants encode and recall image-word pairs, we are interested in how different memory conditions when making associations between words and images contribute to how well people encode and retrieve stimuli. Our intended audience is the general memory researchers.\nThis first visualization depicts how memory accuracy is impacted by both encoding and retrieval conditions. We expect that memory accuracy will be increased in the repeated encoding conditions. Pairs that are repeated more often will yield increased memory performance (encoding conditions). We also predict that memory for within a session will yield increased memory performance as compared to memory for across sessions (retrieval conditions)."
+  },
+  {
     "objectID": "posts/Research Update/index.html",
     "href": "posts/Research Update/index.html",
     "title": "Research Project Update",
@@ -18,6 +25,6 @@
     "href": "index.html",
     "title": "Lab 7",
     "section": "",
-    "text": "Research Project Update\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\nAmerica Romero\n\n\n\n\n\nNo matching items"
+    "text": "Lab Problem Set #3\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\nAmerica Romero\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Project Update\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\nAmerica Romero\n\n\n\n\n\nNo matching items"
   }
 ]
